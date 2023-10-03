@@ -3,3 +3,4 @@ for i in range(151):
         print("Целочисленную арифметику надо учить")
     else:
         print("Hello, World")
+fvvg
